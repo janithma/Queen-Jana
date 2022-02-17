@@ -1,5 +1,5 @@
 {
-  "name": "WhatsAsenaDuplicated",
+  "name": "Queen Jana",
   "version": "1.3.6",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./WhatsAsenaDuplicated/bot.js",
@@ -24,8 +24,8 @@
     "whatsapp api",
     "WhatsAsena"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "AsenaDev / @phaticusthiccy",
+  "author": "AsenaDev / madumal",
+  "developer": "AsenaDev / @janith",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated/issues"
